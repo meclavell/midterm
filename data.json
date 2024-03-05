@@ -1,0 +1,122 @@
+[
+    {
+        "term": "SPRING2024",
+        "deptCode": "COM S",
+        "classNumber": 127,
+        "classTitle": "Introduction to Computer Programming",
+        "courseCatalog": "https://www.cs.iastate.edu/courses/com-s-319",
+        "image": "https://www.shutterstock.com/image-photo/night-office-young-handsome-man-600nw-2083362643.jpg"
+    },
+    {
+        "term": "SPRING2024",
+        "deptCode": "COM S",
+        "classNumber": 227,
+        "classTitle": "Object-oriented Programming",
+        "courseCatalog": "https://www.cs.iastate.edu/courses/com-s-227",
+        "image": "https://www.shutterstock.com/image-photo/night-office-young-handsome-man-600nw-2083362643.jpg"
+    },
+    {
+        "term": "SPRING2024",
+        "deptCode": "COM S",
+        "classNumber": 228,
+        "classTitle": "Introduction to Data Structures",
+        "courseCatalog": "https://www.cs.iastate.edu/courses/com-s-228",
+        "image": "https://www.shutterstock.com/image-photo/night-office-young-handsome-man-600nw-2083362643.jpg"
+    },
+    {
+        "term": "SPRING2024",
+        "deptCode": "COM S",
+        "classNumber": 311,
+        "classTitle": "Design and Analysis of Algorithms",
+        "courseCatalog": "https://www.cs.iastate.edu/courses/com-s-311",
+        "image": "https://www.shutterstock.com/image-photo/night-office-young-handsome-man-600nw-2083362643.jpg"
+    },
+    {
+        "term": "SPRING2024",
+        "deptCode": "COM S",
+        "classNumber": 319,
+        "classTitle": "Software Construction and User Interfaces",
+        "courseCatalog": "https://www.cs.iastate.edu/courses/com-s-319",
+        "image": "https://www.shutterstock.com/image-photo/night-office-young-handsome-man-600nw-2083362643.jpg"
+    },
+    {
+        "term": "SPRING2024",
+        "deptCode": "FIN",
+        "classNumber": 301,
+        "classTitle": "Principles of Finance",
+        "courseCatalog": "https://catalog.iastate.edu/search/?P=FIN%203010",
+        "image": "https://media.istockphoto.com/id/1330234595/photo/closeup-shot-of-an-unrecognisable-businesswoman-calculating-finances-in-an-office.jpg?s=612x612&w=0&k=20&c=dwgvBXpHuM-Jz5XCQtCtLot59CJzGm5iAlxgKm9Yr8Q="
+    },
+    {
+        "term": "SPRING2024",
+        "deptCode": "FIN",
+        "classNumber": 310,
+        "classTitle": "Corporate Finance",
+        "courseCatalog": "https://catalog.iastate.edu/search/?P=FIN%203100",
+        "image": "https://media.istockphoto.com/id/1330234595/photo/closeup-shot-of-an-unrecognisable-businesswoman-calculating-finances-in-an-office.jpg?s=612x612&w=0&k=20&c=dwgvBXpHuM-Jz5XCQtCtLot59CJzGm5iAlxgKm9Yr8Q="
+    },
+    {
+        "term": "SPRING2024",
+        "deptCode": "FIN",
+        "classNumber": 320,
+        "classTitle": "Investments",
+        "courseCatalog": "https://catalog.iastate.edu/search/?P=FIN%203200",
+        "image": "https://media.istockphoto.com/id/1330234595/photo/closeup-shot-of-an-unrecognisable-businesswoman-calculating-finances-in-an-office.jpg?s=612x612&w=0&k=20&c=dwgvBXpHuM-Jz5XCQtCtLot59CJzGm5iAlxgKm9Yr8Q="
+    },
+    {
+        "term": "SPRING2024",
+        "deptCode": "FIN",
+        "classNumber": 330,
+        "classTitle": "Financial Markets and Institutions",
+        "courseCatalog": "https://catalog.iastate.edu/search/?P=FIN%203300",
+        "image": "https://media.istockphoto.com/id/1330234595/photo/closeup-shot-of-an-unrecognisable-businesswoman-calculating-finances-in-an-office.jpg?s=612x612&w=0&k=20&c=dwgvBXpHuM-Jz5XCQtCtLot59CJzGm5iAlxgKm9Yr8Q="
+    },
+    {
+        "term": "SPRING2024",
+        "deptCode": "FIN",
+        "classNumber": 361,
+        "classTitle": "Personal Risk Management and Insurance",
+        "courseCatalog": "https://catalog.iastate.edu/search/?P=FIN%203610",
+        "image": "https://media.istockphoto.com/id/1330234595/photo/closeup-shot-of-an-unrecognisable-businesswoman-calculating-finances-in-an-office.jpg?s=612x612&w=0&k=20&c=dwgvBXpHuM-Jz5XCQtCtLot59CJzGm5iAlxgKm9Yr8Q="
+    },
+    {
+        "term": "SPRING2024",
+        "deptCode": "HIST",
+        "classNumber": 1950,
+        "classTitle": "Introduction to History",
+        "courseCatalog": "https://catalog.iastate.edu/search/?P=HIST%201950",
+        "image": "https://www.shutterstock.com/image-photo/vintage-grunge-still-life-items-600nw-217501978.jpg"
+    },
+    {
+        "term": "SPRING2024",
+        "deptCode": "HIST",
+        "classNumber": 2120,
+        "classTitle": "Medieval Kingdoms",
+        "courseCatalog": "https://catalog.iastate.edu/search/?q=HIST+2120",
+        "image": "https://www.shutterstock.com/image-photo/vintage-grunge-still-life-items-600nw-217501978.jpg"
+    },
+    {
+        "term": "SPRING2024",
+        "deptCode": "HIST",
+        "classNumber": 3100,
+        "classTitle": "Africa to 1880",
+        "courseCatalog": "https://catalog.iastate.edu/search/?P=HIST%203100",
+        "image": "https://www.shutterstock.com/image-photo/vintage-grunge-still-life-items-600nw-217501978.jpg"
+    },
+    {
+        "term": "SPRING2024",
+        "deptCode": "HIST",
+        "classNumber": 4550,
+        "classTitle": "US Civil War and Reconstruction Era",
+        "courseCatalog": "https://catalog.iastate.edu/search/?P=HIST%204550",
+        "image": "https://www.shutterstock.com/image-photo/vintage-grunge-still-life-items-600nw-217501978.jpg"
+    },
+    {
+        "term": "SPRING2024",
+        "deptCode": "HIST",
+        "classNumber": 5750,
+        "classTitle": "Readings Seminar in the History of Technology",
+        "courseCatalog": "https://catalog.iastate.edu/search/?P=HIST%205750",
+        "image": "https://www.shutterstock.com/image-photo/vintage-grunge-still-life-items-600nw-217501978.jpg"
+    }
+]
